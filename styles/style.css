@@ -191,6 +191,10 @@ body {
         width: 50vw;
     }
 
+    .dispositivos__titulo {
+        margin: 0 1em;
+    }
+
     .dispositivos__lista {
         display: block;
     }
